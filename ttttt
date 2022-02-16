@@ -1,0 +1,44 @@
+ tabsNavigation = [ 
+      {
+        id:'v-pills-home',
+        divClass:'tab-pane fade show active',
+        ariaLabelled: 'v-pills-home-tab',
+        dynamicClass:'first-tab-heading',
+        heading:`Your <span>Parking <br> Tickets</span> At Your <br>
+        Fingertips.`,
+        buttonclass:'btn-first-tab',
+        projectImage:'/assets/images/projects/ppcn-img.png'
+
+        
+      },
+      {
+        id:'v-pills-profile',
+        divClass:'tab-pane fade',
+        ariaLabelled: 'v-pills-profile-tab',
+        dynamicClass:'second-tab-heading',
+        heading:`Experience <br> MultiCultural <br> <span>Food</span>.`,
+        buttonclass:'btn-second-tab',
+        projectImage:'/assets/images/projects/smd-img.png'
+      },
+      {
+        id:'v-pills-messages',
+        divClass:'tab-pane fade',
+        ariaLabelled: 'v-pills-messages-tab',
+        dynamicClass:'third-tab-heading',
+        heading:`The <span>Future</span> of <br> Fostering.</h1>`,
+        buttonclass:'btn-third-tab',
+        projectImage:'/assets/images/projects/fa-img.png'
+        
+      },
+      {
+        id:'v-pills-settings',
+        divClass:'tab-pane fade',
+        ariaLabelled: 'v-pills-settings-tab',
+        dynamicClass:'fourth-tab-heading',
+        heading:` Easy <span>Automations</span> <br> Available Just A <br> Click Away!`,
+        buttonclass:'btn-fourth-tab',
+        projectImage:'/assets/images/projects/zc-img.png'
+        
+      },
+    
+  ]
